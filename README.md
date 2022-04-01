@@ -1,4 +1,4 @@
-### atividade-semana-1
+### Atividade Semana 1 Reprograma Dev BackEnd - Professora Raissa Barata
 
  O objetivo teórico foi escolher um tema dentre os temas extras de conceitos básicos, pesquisar e fazer um arquivo de README.md explicando. Já, o objetivo prático foi enviar todo esse conteúdo novo para o Github, utilizando do fluxo de git que foi repassado em sala de aula.
 
@@ -54,7 +54,7 @@ Podemos concluir que enquanto na biblioteca nós mesmos criamos a base e o fluxo
 
 _Fonte_: https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-framework-e-biblioteca/
 
-**Obs.:** Os textos acima são fidedginos a fonte, visto que o principio desta atividade para Dev BackEnd é testar a aprendizagem operacional dos comandos de Git, GitHub e Markdown.
+**Obs.:** Os textos acima são fidedignos a fonte, visto que o principio desta atividade para Dev BackEnd é testar a aprendizagem operacional dos comandos de Git, GitHub e Markdown.
 
 
 
