@@ -54,6 +54,9 @@ Podemos concluir que enquanto na biblioteca nós mesmos criamos a base e o fluxo
 
 _Fonte_: https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-framework-e-biblioteca/
 
+**Obs.:** Os textos acima são fidedginos a fonte, visto que o principio desta atividade para Dev BackEnd é testar a aprendizagem operacional dos comandos de Git, GitHub e Markdown.
+
+
 
 
 
