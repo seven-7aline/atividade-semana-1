@@ -16,11 +16,15 @@ Em conclusão, podemos dizer que uma _biblioteca_ (do inglês _library_, não co
 
 ### Exemplos de Bibliotecas JavaScript
 
-**Moment.js:** Biblioteca para converter, validar, manipular e exibir datas e horários;
-**Chart.js:** Biblioteca para a criação de gráficos;
-**Voca:** Biblioteca para trabalhar com Strings;
-**mo.js:** Biblioteca para criar animações incríveis com SVG;
-**React:** Biblioteca para criar interfaces de usuário.
+- **Moment.js:** Biblioteca para converter, validar, manipular e exibir datas e horários;
+
+- **Chart.js:** Biblioteca para a criação de gráficos;
+
+- **Voca:** Biblioteca para trabalhar com Strings;
+
+- **mo.js:** Biblioteca para criar animações incríveis com SVG;
+
+- **React:** Biblioteca para criar interfaces de usuário.
 
 ### O que são Frameworks?
 
@@ -32,11 +36,15 @@ Só para exemplificar, o _Angular_, framework JavaScript para desenvolvimento de
 
 ### Exemplos de Frameworks JavaScript
 
-**Angular:** Framework para criação de aplicações web;
-**Vue.js:** Framework também para criação de aplicações web;
-**Ionic:** Framework para criar aplicativos mobile com Angular, React ou Vue;
-**Express:** Framework para criar aplicações com Node.js;
-**LoopBack:** Framework para criar APIs e microserviços com Node.js.
+- **Angular:** Framework para criação de aplicações web;
+
+- **Vue.js:** Framework também para criação de aplicações web;
+
+- **Ionic:** Framework para criar aplicativos mobile com Angular, React ou Vue;
+
+- **Express:** Framework para criar aplicações com Node.js;
+
+- **LoopBack:** Framework para criar APIs e microserviços com Node.js.
 
 ### Mas então, qual a diferença entre Framework e Biblioteca?
 
